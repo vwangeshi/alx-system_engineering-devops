@@ -1,1 +1,1 @@
-print username of the current user
+shell basics
