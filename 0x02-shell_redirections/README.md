@@ -1,1 +1,1 @@
-displays a confused smiley 
+shell redirections and filters 
